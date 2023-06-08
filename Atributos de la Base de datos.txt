@@ -1,0 +1,8 @@
+1. ID: un identificador único para cada registro.
+2. Fecha: la fecha y hora en que se registró el evento.
+3. Estado: el estado actual del sistema andon (por ejemplo, verde, amarillo, rojo).
+4. Origen: la ubicación física de la estación de trabajo o área del proceso que originó el evento.
+5. Descripción: una descripción breve del evento que se registró.
+6. Responsable: el nombre del operador o persona encargada de resolver el problema.
+7. Acción: la acción que se tomó para resolver el problema.
+8. Tiempo de resolución: el tiempo que tomó resolver el problema. 
